@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  store: MyString
+  product: MyString
+  date: MyString
+  volume: 1
+
+two:
+  store: MyString
+  product: MyString
+  date: MyString
+  volume: 1
